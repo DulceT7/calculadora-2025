@@ -3,7 +3,7 @@
     
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    grid-template-rows: repeat(5, 9rem);
+    grid-template-rows: repeat(5,9rem);
     gap: 1rem;
 }
 
