@@ -1,5 +1,5 @@
 .pantalla{
-    height: 20rem;
+    height: 18rem;
     background-color: rgb(192, 190, 190);
     padding: 1rem;
 
@@ -10,3 +10,4 @@
     align-items: end;
     justify-content: right;
 }
+
