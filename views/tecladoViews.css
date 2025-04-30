@@ -5,12 +5,13 @@
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(5,9rem);
     gap: 1rem;
+    
 }
 
 .teclas{
     font-size: 3rem;
-    border: 1px solid gray;
-    border-radius: 3px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
 
     display: flex;
     justify-content: center;
@@ -18,7 +19,7 @@
     cursor: pointer;
 }
 .teclas:hover{
-    background-color: lightcoral;
+    background-color:mediumpurple;
 }
 
 .tecla-0{
